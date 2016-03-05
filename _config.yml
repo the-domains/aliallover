@@ -1,0 +1,28 @@
+name: aliallover
+favicon: null
+layout_spectrum: 0.9453099879901856
+typography_spectrum: 0.5589466269593686
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8601212142966688
+  lightness: 0.8987633616197854
+  saturation: 0.24354808707721531
+  rhythmicContrast: 0.5581068997271359
+purpose: []
